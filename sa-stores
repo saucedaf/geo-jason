@@ -1,0 +1,265 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "29.524483",
+          "-98.49506699999999"
+        ]
+      },
+      "properties": {
+        "name": "Total Wine & More"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "29.517785699999997",
+          "-98.4808243"
+        ]
+      },
+      "properties": {
+        "name": "Spec's Wines, Spirits & Finer Foods"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "29.5782237",
+          "-98.4392577"
+        ]
+      },
+      "properties": {
+        "name": "Alamo City Liquor"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "29.3583501",
+          "-98.5353061"
+        ]
+      },
+      "properties": {
+        "name": "Gabriel's Liquors"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "29.4353475",
+          "-98.7154114"
+        ]
+      },
+      "properties": {
+        "name": "Texas Cheer Liquor #2"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "29.601602",
+          "-98.533754"
+        ]
+      },
+      "properties": {
+        "name": "Alamo City Liquor"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "29.5322979",
+          "-98.5615699"
+        ]
+      },
+      "properties": {
+        "name": "WB Liquors & Wine"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "29.5592541",
+          "-98.4850487"
+        ]
+      },
+      "properties": {
+        "name": "Twin Liquors"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "29.4173437",
+          "-98.4894889"
+        ]
+      },
+      "properties": {
+        "name": "Pig Liquors"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "29.5661518",
+          "-98.5871732"
+        ]
+      },
+      "properties": {
+        "name": "Spec's Wines, Spirits & Finer Foods"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "29.4241007",
+          "-98.4930863"
+        ]
+      },
+      "properties": {
+        "name": "Liquors on Main"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "29.5031623",
+          "-98.49973089999999"
+        ]
+      },
+      "properties": {
+        "name": "Discount Liquor"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "29.606627999999997",
+          "-98.596285"
+        ]
+      },
+      "properties": {
+        "name": "Total Wine & More"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "29.4669593",
+          "-98.4915747"
+        ]
+      },
+      "properties": {
+        "name": "WB Liquors & Wine"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "29.4666227",
+          "-98.5076295"
+        ]
+      },
+      "properties": {
+        "name": "Gabriel's Wine & Spirits"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "29.5009186",
+          "-98.6258014"
+        ]
+      },
+      "properties": {
+        "name": "Liquor Store"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "29.3802767",
+          "-98.4588704"
+        ]
+      },
+      "properties": {
+        "name": "Twin Liquors"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "29.4981215",
+          "-98.4679223"
+        ]
+      },
+      "properties": {
+        "name": "Twin Liquors"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "29.527730599999998",
+          "-98.60368799999999"
+        ]
+      },
+      "properties": {
+        "name": "Twin Liquors"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "29.424156699999997",
+          "-98.48874599999999"
+        ]
+      },
+      "properties": {
+        "name": "Riverwalk Wines & Spirits"
+      }
+    }
+  ]
+}
